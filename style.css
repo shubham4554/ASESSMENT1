@@ -1,0 +1,22 @@
+*{
+    color: rgb(240, 96, 101)
+}
+
+h1{
+    color: red;
+}
+ h2{
+     color: rgb(rgb(196, 60, 60), rgb(164, 204, 164), rgb(122, 122, 192));
+ }
+ span{
+     background-color: yellow;
+     font-weight: bold;
+ }
+ ul{
+   letter-spacing: 5px;  
+ }
+ a{
+     text-decoration: none;
+     font-style: italic;
+     background-color: yellow;
+ }
